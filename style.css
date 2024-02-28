@@ -91,6 +91,7 @@ button:active {
 
 #id {
     font-weight: bold;
+    display: none;
 }
 
 #flujo{

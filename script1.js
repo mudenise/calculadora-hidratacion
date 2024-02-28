@@ -31,7 +31,6 @@ CALCULAR.addEventListener('click', () => {
         let flujo = Math.round(volumen / 24);
         let flujo_medio = Math.round(flujo * 1.5);
 
-
         ERROR.style.display = 'none';
         VOLUMEN.style.display= 'block';
         FLUJO.style.display = 'block';
